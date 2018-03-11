@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoinBoi</string>
+    <string name="coin_boi">CoinBoi</string>
+    <string name="welcome_to_the_coinboi_app">Welcome to the CoinBoi App</string>
+    <string name="current_price">Current Price</string>
+    <string name="last_closing_price">Last Closing Price</string>
+</resources>
